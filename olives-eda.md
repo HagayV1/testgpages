@@ -1,6 +1,5 @@
 ---
 title: EDA
-nav_include: 2
 notebook: olives-eda.ipynb
 ---
 
