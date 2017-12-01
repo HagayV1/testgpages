@@ -1,7 +1,7 @@
 ---
 title: Models
 notebook: olives-model.ipynb
-nav_indlue: 1
+nav_include: 1
 ---
 
 ## Contents
